@@ -1,7 +1,7 @@
 {
 	"manifest_version" : 2,
 	"name": "Cracked in One Page",
-	"version": "0.1",
+	"version": "0.1.1",
 	"author": "David H. Altmayer",
 	
 	"description": "View Cracked articles as one page.",
